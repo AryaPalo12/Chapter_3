@@ -14,14 +14,14 @@ nav a{
 
 .navbar-nav ul{
     position:relative;
-    margin-left:10px;
+    margin-left:30px;
 }
 
 #logo{
     color:white;
     margin:0;
-    padding-left: 20px;
-    padding-right: 20px;
+    font-size : 20px;
+    padding-right: 40px;
     font-weight:bold;
     text-transform: uppercase;
 }
@@ -29,8 +29,9 @@ nav a{
 #top-page-bg{
     top:0;
     background-image: url(/assets/main-bg.jpg);
-    background-size:cover;
+    background-size: 100% 100%;
 }
+
 #top-page{
         text-align: center;
         justify-content: center;
@@ -75,3 +76,66 @@ h3{
     color: white;
 }
 
+#special{
+    background-image : url(/assets/the-games-bg.jpg);
+    background-size: 100% 100%;
+    color : white;
+    position: relative;
+    width: 100%;
+
+}
+
+.up-case {
+    font-size : 48px;
+    text-transform: uppercase;
+}
+
+.margin-special {
+    margin-top : 200px;
+    margin-left : 80px;
+}
+
+.flex-row-pics {
+    display : flex;
+    flex-direction : row;
+}
+
+#image-special{
+    margin-top : 240px;
+    display:flex;
+    flex-direction : row;
+    align-items: center;
+    max-width : 70%;
+    margin-bottom: 170px;
+}
+
+.resize {
+    width : 800px;
+    height: 450px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.no-margin{
+    margin-top : 0px;
+    margin-bottom : 0px;
+    padding:0px;
+}
+
+#botak {
+    background-image: url(/assets/features.jpg);
+    background-size: 100% 100%;
+    position:relative;
+    color: white;
+}
+
+.flex-row-end {
+    display : flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.botak-margin{
+    margin-top : 200px;
+    margin-right: 80px;   
+}
