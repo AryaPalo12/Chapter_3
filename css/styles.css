@@ -29,7 +29,7 @@ nav a{
 
 #top-page-bg{
     top:0;
-    background-image: url(/assets/main-bg.jpg);
+    background-image: url(./assets/main-bg.jpg);
     background-size: 100% 100%;
 }
 
@@ -78,7 +78,7 @@ h3{
 }
 
 #special{
-    background-image : url(/assets/the-games-bg.jpg);
+    background-image : url(./assets/the-games-bg.jpg);
     background-size: 100% 100%;
     color : white;
     position: relative;
@@ -125,7 +125,7 @@ h3{
 }
 
 #botak {
-    background-image: url(/assets/features.jpg);
+    background-image: url(./assets/features.jpg);
     background-size: 100% 100%;
     position:relative;
     color: white;
@@ -187,7 +187,7 @@ h3{
 }
 
 #system_requirement{
-    background-image: url(/assets/requirements.png);
+    background-image: url(./assets/requirements.png);
     background-size: 100% 100%;
     width:100%;
     position:relative;
@@ -226,7 +226,7 @@ h3{
   }
 
   #page-5{
-    background-image: url(/assets/top-score-bg.png);
+    background-image: url(./assets/top-score-bg.png);
     background-size: 100% 100%;
     color : white;
     position: relative;
@@ -291,7 +291,7 @@ h3{
   #last-page{
     font-family: "Open Sans";
     background-color: black;
-    background-image: url(/assets/top-score-bg\(2\).png);
+    background-image: url(./assets/top-score-bg\(2\).png);
     background-size: 100% 100%;
     color : white;
     position: relative;
